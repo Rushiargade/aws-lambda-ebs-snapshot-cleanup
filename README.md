@@ -57,13 +57,7 @@ The Lambda function uses an IAM role with the following policies:
   - Snapshot IDs created
   - Snapshot IDs deleted
   - Execution status messages
-
----
-
-## 📅 Automation (Bonus)
-- The Lambda function can be scheduled using **Amazon EventBridge**
-- Example: Weekly snapshot creation using a cron schedule
-
+    
 ---
 
 ## ✅ Result
